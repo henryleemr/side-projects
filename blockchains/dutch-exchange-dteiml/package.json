@@ -1,0 +1,23 @@
+{
+  "name": "dutch-exchange",
+  "version": "0.0.3",
+  "description": "",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "truffle test",
+    "nodemon-test": "nodemon --exec truffle test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gnosis/dutch-exchange.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gnosis/dutch-exchange/issues"
+  },
+  "homepage": "https://github.com/gnosis/dutch-exchange#readme"
+}

@@ -1,0 +1,1 @@
+Changes from before:-Made DiscUpdate redundant -Changed mass_balance so that we update FNH3OUT as a global parameter-Changed NH3Disc to update FN2 and FH2 as well 

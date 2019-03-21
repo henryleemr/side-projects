@@ -1,0 +1,1 @@
+Changes from before:BuildReactor:In NH3Disc:Added the mass balance code into the main script to check when the rNH3 value is negative,the FNH3OUT decreases instead of increasing-> this yielded even higher values for total outlet mass flow rate than before 

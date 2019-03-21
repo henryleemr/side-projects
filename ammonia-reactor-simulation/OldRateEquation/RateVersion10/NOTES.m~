@@ -1,0 +1,1 @@
+Changes from before:NH3Disc:Changed the plot of cumulative NH3 (CUMDISCNH3OUT)/3600 not jsut produced so that it is in units of kmol/s instead of kmol/hChanged    %Solve for FNH3OUT FNH3OUT = fsolve(@mass_balance, F0) + FNH30;Changed the name of plot to %length along reactor instead of reference lengthBuildReactor:Changed p.FEED = 50Changed V = 1

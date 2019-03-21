@@ -1,0 +1,1 @@
+Changes from before:Buildreactor.m:-Changed pressure from 200 to 225 to use accurate results from literature-Changed the X1 to be a constant = 1-Added a new variable/ design parameter, total volume of reactor, V-Added the number divisions of volume, N-Added the volume of a single disc, dVCreated a new function, mass_balance.m

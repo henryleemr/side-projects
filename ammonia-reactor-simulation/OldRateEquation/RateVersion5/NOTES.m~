@@ -1,0 +1,1 @@
+Changes from before:Buildreactor.m:- Changed the temperature T from 450K to 723K, the error before was that 450 is in degrees C whereas in the code it is supposed to be in kelvin- Changed overall FEED to 130.158kmol.hr rNH3 changed from  -4.5736e+08 to  -3.7501e+10TemkinPyzhevSanity:-Include two bounds for P and T sanity check

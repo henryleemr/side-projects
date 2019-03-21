@@ -1,0 +1,1 @@
+Changes from before:BuildReactor:-Tweaked P from 225 to 200 atm and T from 678K to 700K-Changed V = 0.1965, Area = 0.9 to v = 0.2, Area= 0.5-For V = 1.5*pi and Area  = pi, the conversion is 48.0% which is higher than equilibrium ocnversion! UnreasonableStoichiometry:dTdL:RPT3D:XPT3D:-Buggy, need to debugV_L_A_3D:
